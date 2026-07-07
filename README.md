@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- 1. HERO BANNER -->
-<img src="https://capsulerender.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nancy%20Antony&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Hardware-Aware%20AI&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsulerender.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nancy%20Antony&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=M.Tech%20Electronics%20Engineering%20(VLSI%20Design)&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- 2. TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Computer+Vision+Engineer;Building+Spiking+Neural+Networks+%F0%9F%A7%A0;FPGA+%2B+PyTorch+%3D+Hardware-Aware+AI;Chairperson%2C+IEEE+CAS+%40+DUK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Computer+Vision+Engineer;Deep+Learning+%7C+Spiking+Neural+Networks;Hardware-Aware+AI+%7C+FPGA+Deployment;Chairperson%2C+IEEE+CAS+%40+DUK" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=nanzyantony&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile views"/>
@@ -22,32 +22,29 @@
 class NancyAntony:
     def __init__(self):
         self.name = "Nancy Antony"
-        self.location = "Kerala, India"
         self.degree = "M.Tech, Electronics Engineering (VLSI Design)"
-        self.role = "Computer Vision / Deep Learning Engineer"
+        self.role = "Aspiring Computer Vision Engineer"
 
         self.stack = {
-            "languages": ["Python", "Verilog", "MATLAB"],
-            "ai_ml": ["PyTorch", "TensorFlow", "CNNs",
+            "programming": ["Python", "Verilog", "MATLAB", "Linux"],
+            "ai_ml": ["PyTorch", "TensorFlow", "Deep Learning", "CNNs",
                       "Spiking Neural Networks",
                       "Model Optimization", "Transfer Learning"],
             "computer_vision": ["OpenCV", "Image Processing",
+                                 "Data Preprocessing", "Feature Extraction",
                                  "Sobel Edge Detection",
-                                 "Morphological Operations",
-                                 "Feature Extraction"],
+                                 "Morphological Operations"],
             "hardware": ["FPGA", "Vivado", "Xschem",
-                         "Magic VLSI", "LTspice"]
+                         "Magic VLSI", "LTspice"],
+            "libraries": ["NumPy", "SciPy", "scikit-learn", "Matplotlib"]
         }
 
-        self.currently_learning = [
-            "Hardware-Aware Neural Architecture Search",
-            "Neuromorphic Computing on FPGA"
-        ]
-
-        self.fun_fact = "I taped out a Verilog PRNG through Tiny Tapeout 🔬"
+        self.fun_fact = "Successfully taped out a Verilog-based PRNG through the Tiny Tapeout program"
 
     def motto(self):
-        return "Bridging silicon and spikes — one neuron at a time ⚡"
+        return ("Building end-to-end ML pipelines with Python and PyTorch, "
+                "optimizing neural models, and deploying AI on FPGA "
+                "for low-power intelligent edge systems.")
 
 
 me = NancyAntony()
@@ -107,14 +104,12 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>IICG — Project Intern | Jul 2025 – Mar 2026 | Kerala, India</b></summary>
+<summary><b>IICG — Project Intern | Jul 2025 – Mar 2026</b></summary>
 <br>
 
-> `Python` `Data Visualization` `Signal Processing` `Frontend Development`
+> `Python` `Data Visualization` `Sensor Interfacing`
 
-- Developed a Python-based frontend for a graphene biosensor for real-time data visualization.
-- Enabled interactive analysis of live sensing data streams for researchers.
-- Bridged hardware sensor output with an accessible, user-facing analysis interface.
+- Developed a Python-based frontend for a graphene biosensor, enabling real-time visualization and interactive analysis of sensing data.
 
 </details>
 
@@ -124,9 +119,7 @@ print(me.motto())
 
 > `Analog Design` `Sigma-Delta ADC/DAC` `Circuit Simulation`
 
-- Designed and simulated a Sigma–Delta DAC architecture from the ground up.
-- Evaluated resolution, quantization noise, and key performance trade-offs.
-- Iterated on architecture parameters to optimize conversion accuracy.
+- Designed and simulated a Sigma–Delta DAC architecture while evaluating resolution, quantization noise, and performance trade-offs.
 
 </details>
 
@@ -138,9 +131,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Topology-Aware Spiking Neural Network (TASN)](https://github.com/nanzyantony)** | Python, PyTorch, Verilog, FPGA | Novel TASN neuron for image classification & MRI super-resolution; achieved **up to 94% accuracy**; validated on FPGA hardware |
-| **[Vision-Based ASL Recognition](https://github.com/nanzyantony)** | Python, OpenCV | Full CV pipeline with Sobel edge detection & morphological filtering; improved gesture classification robustness via feature extraction |
-| **[Pseudo-Random Number Generator](https://github.com/nanzyantony)** | Verilog, Tiny Tapeout | Designed, verified, and **successfully taped out** a hardware PRNG through the Tiny Tapeout program |
+| **Topology-Aware Spiking Neural Network (TASN)** <br><sub>Jan 2025 – May 2026</sub> | Python, PyTorch, Verilog, FPGA | Developed a novel TASN neuron for image classification and MRI super-resolution, achieving **up to 94% accuracy**; implemented and validated the neuron on FPGA using Verilog |
+| **Vision-Based American Sign Language Recognition** <br><sub>Aug 2024 – Dec 2024</sub> | Python, OpenCV | Built an OpenCV-based CV pipeline with image preprocessing, Sobel edge detection, and morphological filtering; implemented feature extraction to improve gesture classification robustness |
+| **Pseudo-Random Number Generator (Tiny Tapeout)** <br><sub>Jun 2023 – Dec 2023</sub> | Verilog, Tiny Tapeout | Designed, verified, and successfully taped out a Verilog-based PRNG through the Tiny Tapeout program |
 
 </div>
 
@@ -175,12 +168,11 @@ print(me.motto())
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Working On
 
 ```
-🧠 Hardware-Aware AI       → Neural Architecture Search, FPGA-based Inference
-🧬 Neuromorphic Computing  → Spiking Neuron Models, Event-Driven Hardware
-🖼️ Advanced Computer Vision → MRI Super-Resolution, Edge Deployment
+🧠 TASN Project (ongoing through May 2026) → Spiking Neuron Design, FPGA Validation
+🔬 Graphene Biosensor Frontend (IICG)      → Real-Time Data Visualization
 ```
 
 ---
