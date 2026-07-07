@@ -26,7 +26,7 @@ class NancyAntony:
         self.role = "Aspiring Computer Vision Engineer"
 
         self.stack = {
-            "programming": ["Python", "Verilog", "MATLAB", "Linux"],
+            "programming": ["Python", "Verilog", "Linux"],
             "ai_ml": ["PyTorch", "TensorFlow", "Deep Learning", "CNNs",
                       "Spiking Neural Networks",
                       "Model Optimization", "Transfer Learning"],
