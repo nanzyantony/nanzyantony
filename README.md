@@ -5,7 +5,7 @@
 
 <!-- 2. TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Computer+Vision+Engineer;Deep+Learning+%7C+Spiking+Neural+Networks;Hardware-Aware+AI+%7C+FPGA+Deployment;Chairperson%2C+IEEE+CAS+%40+DUK" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Computer+Vision+Engineer/AI+ML+Engineer;Deep+Learning+%7C+Spiking+Neural+Networks;Hardware-Aware+AI+%7C+FPGA+Deployment;Chairperson%2C+IEEE+CAS+%40+DUK" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=nanzyantony&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile views"/>
