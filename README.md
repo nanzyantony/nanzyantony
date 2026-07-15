@@ -161,7 +161,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| M.Tech, Electronics Engineering (VLSI Design) | Digital University Kerala | 2024 – 2026 | CGPA: 8.39 |
+| M.Tech, Electronics Engineering (VLSI Design) | Digital University Kerala | 2024 – 2026 | CGPA: 8.61 |
 | B.Tech, Electronics and Communication Engineering | Sahrdaya College of Engineering and Technology | 2020 – 2024 | CGPA: 7.27 |
 
 </div>
